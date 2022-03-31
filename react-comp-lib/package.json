@@ -1,0 +1,30 @@
+{
+  "name": "react-comp-lib",
+  "version": "1.0.0",
+  "description": "simple react component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joydip-git/react-comp-npmlib-module.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "library"
+  ],
+  "author": "joydip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joydip-git/react-comp-npmlib-module/issues"
+  },
+  "homepage": "https://github.com/joydip-git/react-comp-npmlib-module#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7"
+  }
+}
